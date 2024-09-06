@@ -23,6 +23,8 @@
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" alt="wordpress" width="35px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img align="left" alt="wordpress" width="35px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
+<img align="left" alt="wordpress" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 
 <br />
 
