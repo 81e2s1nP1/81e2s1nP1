@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media3.giphy.com/media/QkwRsjstM5ioQUmZAw/giphy.webp?cid=790b7611d0nsdbmpn3hgs65nrnipruhad2hgf6yn3w14fs4q&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
-- 🌱 I’m currently learning: **Websec and InfSec**
+- 🌱 I’m currently learning: **Web Security and Information Security**
 
 - 🔭 I’m currently studying in: **Academy of Cryptography Techniques (KMA)**
 
